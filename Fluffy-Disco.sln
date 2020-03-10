@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluffy-Disco.Android", "Fluffy-Disco\Fluffy-Disco.Android\Fluffy-Disco.Android.csproj", "{FC823903-224E-4672-8851-F53F245C1B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluffy-Disco", "Fluffy-Disco\Fluffy-Disco\Fluffy-Disco.csproj", "{8D7706A3-9D3F-443B-A664-79418FECF001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC823903-224E-4672-8851-F53F245C1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC823903-224E-4672-8851-F53F245C1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC823903-224E-4672-8851-F53F245C1B97}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC823903-224E-4672-8851-F53F245C1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC823903-224E-4672-8851-F53F245C1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC823903-224E-4672-8851-F53F245C1B97}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7706A3-9D3F-443B-A664-79418FECF001}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BBE87E7-F19B-4B19-AA2D-824D72E7D722}
+	EndGlobalSection
+EndGlobal
